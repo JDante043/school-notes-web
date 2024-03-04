@@ -5,7 +5,7 @@ branding:
   title: Catetan Sekolah
   label: Docs
 links:
-- text: 
-  link: 
+- text: Github
+  link: https://github.com/JDante043/school-notes-web
 footer:
   copyright: Juanito Dante, 12 MIPA
