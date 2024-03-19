@@ -115,11 +115,22 @@ Zaman Besi (Iron age)
 ===
 
 ==- 12. Jenis-jenis manusia purba cerdas
-
+- Homosapien
+- Homoerectus
 ===
 
 ==- 13. Ciri-ciri homosapien & soloensis
+Homosapien:
+- Reduksi di gigi, rahang, dan otot kunyah, sehingga mulai terdapat dagu
+- Menggunakan bahasa untuk berkomunikasi
+- Tinggi 130-210cm
+- otak 1350-1450cc
+- Berat badan 30-150kg
 
+Soloensis:
+- otak 1000-1300cc
+- Tinggi badan hingga 210cm
+- Wajah tidak mirip dengan manusia kera
 ===
 
 ==- 14. Jaman bumi dihuni oleh hewan mamalia, tumbuhan, & burung
@@ -187,63 +198,88 @@ Penyebaran ajaran Kristen
 ===
 
 ==- 25. Tokoh pendiri perhimpunan Indonesia
-
+Soemitro, Sutan Kasajangan Soripada, dan RM Noto Soeroto.
 ===
 
 ==- 26. Tokoh pendiri Budi Utomo
-
+Wahidin Soedirohoesodo
 ===
 
-==- 27. Tokoh pendiri SDI
-
+==- 27. Tokoh pendiri SDI (Sarekat Dagang Islam)
+Haji Samanhudi
 ===
 
 ==- 28. Faktor Jepang masuk ke Indonesia
-
+Jepang datang ke Indonesia dengan tujuan mendapatkan tenaga kerja dan sumber daya alam.
 ===
 
 ==- 29. Peristiwa penculikan Soekarno & Mohammad Hatta
-
+Peristiwa rengasdengklok adalah penculikan soekarno & mohammad hatta oleh beberapa pemuda dari perkumpulan "Menteng 31" pada 16 Agustus 1945 di Rengasdengklok, Karawang. Peristiwa ini terjadi karena perbedaan pendapat bagaimana kemerdekaan Indonesia diproklamasikan. Golongan tua ingin kemerdekaan diproklamasikan oleh PPKI pada saat Jepang menyerah, namun golongan muda ingin kemerdekaan diproklamasikan secepat mungkin oleh Soekarno & Hatta sendiri.
 ===
 
 ==- 30. Alasan julukan "Bandung lautan api"
-
+Bandung lautan api adalah peristiwa dimana warga Bandung membakar kediaman mereka agar Bandung tidak bisa digunakan sebagai markas strategis. Kebakaran yang besar menjadi alasan julukan "Bandung lautan api"
 ===
 
 ==- 31. Berkembangnya mobilitas sosial masyarakat dalam masa kolonial disebabkan oleh?
-
+Politik Pintu terbuka di Hindia-Belanda menghasilkan banyak perkebunan swasta yang memerlukan banya tenaga kerja. 
 ===
 
 ==- 32. Tokoh yang ingin mendirikan negara Islam
-
+Sekarmadji Maridjan Kartosuwirjo
 ===
 
 ==- 33. Sistem ekonomi gerakan banteng
-
+Dicetus oleh Dr. Soemitro Djojohadikusumo, gerakan ini bertujuan untuk memberi kesempatan pada pengusaha pribumi yang bersaing dengan pengusaha kolonial dengan cara memberikan prioritas, pinjaman kredit, dan pendidikan kepada pengusaha pribumi
 ===
 
 ==- 34. Dampak negatif penerapan sistem parlementer
-
+- Kebijakan tidak stabil karena pergantian kabinet
+- Kewajiban yang besar ditanggung oleh parlemen, maka badan eksekutif tidak stabil
+- Pergantian kabinet yang sering
 ===
 
 ==- 35. Faktor munculnya pemberontakan Kahar Muzakhar di Sulawesi Selatan
-
+DI/TII Sulawesi Selatan karena KGSS ditolak bergabung dengan APRIS oleh pemerintah pusat
 ===
 
 ==- 36. Pengertian nawaksara, nawacita, gestapu, manipol, trikoro
+**Nawaksara**\
+Nawa (9 di bahasa Sansekerta) dan Aksara, merupakan judul pidato Soekarno di sidang umum MPRS pada 22 Juni 1966.
 
+**Nawacita**\
+Nawa (9 di bahasa Sansekerta) dan cita, merupakan 9 prioritas pembangunan 5 tahun kedepan. Disusun oleh partai PDI-P & merupakan bagian visi & misi Presiden Jokowi & WaPres Jusuf Kalla pada pemilu 2014
+
+**Gestapu**\
+Gerakan September Tiga Puluh (G30S). Baca G30S/PKI
+
+**Manipol**\
+Manifesto Politik, pidato presiden Soekarno pada tanggal 17 Agustus 1959. Berisi USDEK (UUD1945, Sosialisme (indonesia), Demokrasi (terpimpin), Ekonomi (terpimpin), Kepribadian (indonesia))
+
+**Trikoro**\
+"3 Tujuan Mulia", nama lain Jong Java
 ===
 
 ==- 37. Alasan munculnya orde baru
-
+Setelah peristiwa G30S/PKI, stabilitas politik Indonesia menurun & dikeluarkannya supersemar & Tritura
 ===
 
 ==- 38. Kuatnya peranan orde baru ditentukan oleh
-
+Peran pemerintahan orde baru ditentukan oleh kuatnya militer, Golkar, dan stabilitas negara. 
 ===
 
 ==- 39. Tujuan gerakan reformasi '98
-
+- Mengatasi krisis moneter
+- Menegakkan HAM, Demokrasi, kebebasan pers
+- Membasmi KKN
+- Pencabutan Dwifungsi ABRI
+- Amademen UUD
 ===
 
 ==- 40. Kronologi '98 (Awal kerusuhan - Lengsernya Soeharto)
+- 12 Mei: Kejadian Trisakti
+- 13 Mei: Rusuh lagi di Jakarta
+- 14 Mei: Kerusuhan merambah ke kota lain
+- 15 Mei: Presiden Soeharto menyatakan bersedia mundur
+- 21 Mei: Presiden Soeharto mundur, digantikan oleh Habibie
+===
