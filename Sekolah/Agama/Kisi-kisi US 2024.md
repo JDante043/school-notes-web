@@ -67,7 +67,7 @@ Teori Creatio ex Nihilo
 ===
 
 ==- 17. Beberapa predikat yang disematkan kepada Yesus berdasarkan nubuat dalam Yesaya 9:5 adalah
-
+Penasihat ajaib, Allah yang perkasa, Bapa yang kekal, Raja damai
 ===
 
 ==- 18. Yang bukan perkataan Yesus di atas kayu salib
@@ -91,10 +91,10 @@ Abraham
 ===
 
 ==- 21. Di bawah ini yang merupakan pelajaran yang dapat diteladani dari kehidupan Yusuf adalah
-
+Menjaga kekudusan hidup
 ===
 
-==- 22. Doktrin ketekunan orang kudus menegaskan bahwa
+==- 22. Doktrin ketekunan orang kudus menegaskan bahwa keselamatan...
 Tidak bisa hilang
 ===
 
@@ -103,11 +103,11 @@ Kasih Karunia
 ===
 
 ==- 24. Di bawah ini yang bukan merupakan anti kristus
-
+Wabah penyakit
 ===
 
 ==- 25. Apa yang CS Louis katakan mengenai Allah Tritunggal
-
+Allah adalah satu being, dengan tiga pribadi, dan disaat yang bersamaan tetap satu being
 ===
 
 ==- 26. Apa yang dimaksud dengan doksologi
@@ -147,7 +147,7 @@ Padangannya tentang dosa tidak sesuai alkitab
 ===
 
 ==- 35. Di bawah ini yang bukan merupakan ciri-ciri bidat Kristen adalah
-
+Ajaran yang menekankan manusia sebagai manusia yang mewariskan dosa Adam
 ===
 
 ==- 36. Kata perintah utama dalam amanat agung yang Yesus sampaikan adalah
